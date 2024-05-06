@@ -3,11 +3,11 @@ let questions = [
     {
     numb: 3,
     question: "Raymond d’Alayrac cependant rendit la notoriété à cette lignée, il était ?",
-    answer: "2) troubadour",
+    answer: "2) Troubadour",
     options: [
-      "1) docteur",
-      "2) troubadour",
-      "3) orfèvre",
+      "1) Docteur",
+      "2) Troubadour",
+      "3) Orfèvre",
      
     ]
   },
